@@ -1,1 +1,0 @@
-# minithon_practice
